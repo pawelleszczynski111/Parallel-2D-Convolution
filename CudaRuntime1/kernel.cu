@@ -86,7 +86,7 @@ __global__ void convolution(const unsigned char* input, unsigned char* output, c
 
 int main() {
 	//Loading image in greyscale
-	cv::Mat img = cv::imread("D:/Projekty/zdj.bmp", cv::IMREAD_GRAYSCALE);
+	cv::Mat img = cv::imread("input.jpg", cv::IMREAD_GRAYSCALE);
 
 
 	int rows = img.rows;
