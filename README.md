@@ -64,7 +64,6 @@ The benchmark includes:
 - CUDA
 - OpenCV
 - Visual Studio
-- NVIDIA RTX 3070 Ti
 
 ---
 
